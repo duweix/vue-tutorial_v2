@@ -1,0 +1,15 @@
+{
+  "name": "vue-tutorial_v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:duweix/vue-tutorial_v2.git",
+  "author": "duweix <duweix@126.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.0"
+  },
+  "dependencies": {
+    "vue": "^2.5.13"
+  }
+}
